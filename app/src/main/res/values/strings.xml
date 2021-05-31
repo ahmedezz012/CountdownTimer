@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CountdownTimer</string>
+    <string name="selectTime">Click to select Time</string>
+    <string name="selectedTime">Selected Time</string>
+    <string name="remainingTime">Remaining Time</string>
+    <string name="chooseFutureTime">Choose future time</string>
+</resources>
